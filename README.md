@@ -1,16 +1,18 @@
-# express-file-routing
+# express-file-routing-25
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/matthiaaas/express-file-routing?color=brightgreen&label=latest)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/matthiaaas/express-file-routing-25?color=brightgreen&label=latest)
 
 Flexible file-based routing for Express with `0` dependencies.
+Original work from [matthiaaas/express-file-routing](https://github.com/matthiaaas/express-file-routing)
+Updated to 2025 deps and functionality needs
 
 ## Installation
 
 ```bash
-npm install express-file-routing
+npm install express-file-routing-25
 ```
 
-**Note:** If you prefer `yarn` instead of `npm`, just use `yarn add express-file-routing`.
+**Note:** If you prefer `yarn` instead of `npm`, just use `yarn add express-file-routing-25`.
 
 ## How to use
 
